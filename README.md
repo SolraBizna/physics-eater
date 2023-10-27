@@ -43,7 +43,7 @@ Marathon Infinity shipped with a so-called "standard" physics file. This is *not
 
 - Angle: Degrees
 - Distance: World Units (1 WU = 2m = 1024 IU)
-- Time: Tick (*not* second!)
+- Time: Tick (30 Ticks = 1 second)
 - Speed: World Units per Tick (*not* per second!)
 - Acceleration: World Units per Tick per Tick (*not* per second per second!)
 
