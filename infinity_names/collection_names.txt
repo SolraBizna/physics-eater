@@ -1,0 +1,32 @@
+Interface
+Weapon In Hand
+Juggernaut
+Tick
+Projectiles
+Hunter
+Player
+Items
+Trooper
+Pfhor Fighter
+Defender
+Yeti
+Bob
+Vacuum Bob
+Enforcer
+Hummer
+Compiler
+Walls (Water)
+Walls (Lava)
+Walls (Sewage)
+Walls (Jjaro)
+Walls (Pfhor)
+Scenery (Water)
+Scenery (Lava)
+Scenery (Sewage)
+Scenery (Jjaro)
+Scenery (Pfhor)
+Landscape (Day)
+Landscape (Night)
+Landscape (Moon)
+Landscape (Space)
+Cyborg

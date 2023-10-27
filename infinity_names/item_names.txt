@@ -1,0 +1,36 @@
+knife
+magnum pistol
+magnum magazine
+plasma pistol
+plasma energy cell
+assault rifle
+ar magazine
+ar grenade magazine
+missile launcher
+missile 2-pack
+invisibility powerup
+invincibility powerup
+infravision powerup
+alien weapon
+alien weapon ammo
+flamethrower
+flamethrower canister
+extravision powerup
+oxygen powerup
+energy powerup x1
+energy powerup x2
+energy powerup x3
+shotgun
+shotgun cartridges
+s'pht door key
+uplink chip
+light blue ball
+the ball
+violet ball
+yellow ball
+brown ball
+orange ball
+blue ball
+green ball
+submachine gun
+submachine gun clip

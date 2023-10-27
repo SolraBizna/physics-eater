@@ -1,0 +1,24 @@
+explosion
+fighter staff
+projectile
+absorbed
+flame
+hound claws
+alien weapon
+hulk slap
+compiler bolt
+fusion
+hunter bolt
+fist
+teleporter
+defender
+yeti claws
+yeti projectile
+crushing
+lava
+suffocation
+goo
+energy drain
+oxygen drain
+hummer bolt
+shotgun projectile
